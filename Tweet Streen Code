@@ -6,6 +6,7 @@ import json
 import csv
 import twitter_credentials
 
+
 class TwitterStreamer():
 
     def __init__(self):
